@@ -28,7 +28,7 @@ let addressesnotlsapi = [
 ];
 
 let DLS = 8;//速度下限
-let addressescsv = [
+let addressescsv = ['https://cc.isblchh.cloudns.ch/result.csv?token=hello'
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
 ];
 

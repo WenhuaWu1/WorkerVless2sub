@@ -5,27 +5,27 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'icook.tw:2053#官方优选域名',
+	//'icook.tw:2053#官方优选域名',
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt',
+	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt',
 	'https://cc.isblchh.cloudns.ch/ip.txt?token=hello', 
-	'https://addressesapi.090227.xyz/CloudFlareYes',
-	'https://addressesapi.090227.xyz/cmcc-ipv6',
-	'https://addressesapi.090227.xyz/cmcc',
-	'https://addressesapi.090227.xyz/ct',
-	'https://ipdb.api.030101.xyz/?type=bestproxy&country=true',
-	'https://ipdb.api.030101.xyz/?type=bestcf&country=true',
-	'https://cn.xxxxxxxx.tk',
-	'https://ct.xxxxxxxx.tk',
-	'https://cm.xxxxxxxx.tk',
-	'https://cu.xxxxxxxx.tk',
-	'https://cnv6.xxxxxxxx.tk',
-	'https://ctv6.xxxxxxxx.tk',
-	'https://cmv6.xxxxxxxx.tk',
-	'https://cuv6.xxxxxxxx.tk',
+	//'https://addressesapi.090227.xyz/CloudFlareYes',
+	//'https://addressesapi.090227.xyz/cmcc-ipv6',
+	//'https://addressesapi.090227.xyz/cmcc',
+	//'https://addressesapi.090227.xyz/ct',
+	//'https://ipdb.api.030101.xyz/?type=bestproxy&country=true',
+	//'https://ipdb.api.030101.xyz/?type=bestcf&country=true',
+	//'https://cn.xxxxxxxx.tk',
+	//'https://ct.xxxxxxxx.tk',
+	//'https://cm.xxxxxxxx.tk',
+	//'https://cu.xxxxxxxx.tk',
+	//'https://cnv6.xxxxxxxx.tk',
+	//'https://ctv6.xxxxxxxx.tk',
+	//'https://cmv6.xxxxxxxx.tk',
+	//'https://cuv6.xxxxxxxx.tk',
 	//可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];

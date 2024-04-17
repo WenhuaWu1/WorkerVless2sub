@@ -17,7 +17,7 @@ let addressesapi = [
 	//'https://cc.isblchh.cloudns.ch/youxian.txt?token=hello', 
 	'https://cf-workers-text2kv-abo.pages.dev/ip.txt?token=hello',
 	//'https://cf-workers-text2kv-abo.pages.dev/cs.txt?token=hello',
-	//'https://cf-workers-text2kv-abo.pages.dev/youxian.txt?token=hello',
+	'https://cf-workers-text2kv-abo.pages.dev/youxian.txt?token=hello',
 	
 	//可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。

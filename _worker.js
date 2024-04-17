@@ -11,7 +11,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt',
+	//'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt',
 	//'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub2.txt',
 	//'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub3.txt',
 	//'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub4.txt',
@@ -26,7 +26,7 @@ let addressesapi = [
 	//'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt',
 	//'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ss.txt',
 	//'https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt',
-	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', 
+	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', 
 	//'https://cc.isblchh.cloudns.ch/cs.txt?token=hello', 
 	//'https://cc.isblchh.cloudns.ch/ip.txt?token=hello', 
 	//'https://cc.isblchh.cloudns.ch/youxian.txt?token=hello', 

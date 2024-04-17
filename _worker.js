@@ -11,7 +11,7 @@ let addresses = [
 // 设置优选地址api接口
 let addressesapi = [
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt',
-	//'https://cc.isblchh.cloudns.ch/ip.txt?token=hello', 
+	'https://cc.isblchh.cloudns.ch/ip.txt?token=hello', 
 	'https://cc.isblchh.cloudns.ch/cs.txt?token=hello', 
 	'https://cc.isblchh.cloudns.ch/youxian.txt?token=hello',
 	//'https://addressesapi.090227.xyz/CloudFlareYes',

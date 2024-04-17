@@ -32,7 +32,7 @@ let addressesapi = [
 	'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt',
 	'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt',
 	'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ss.txt',
-	'https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt',
+	//'https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt',
 	
 	//可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。

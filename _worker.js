@@ -18,7 +18,7 @@ let addressesapi = [
 	'https://cf-workers-text2kv-abo.pages.dev/ip.txt?token=hello',
 	//'https://cf-workers-text2kv-abo.pages.dev/cs.txt?token=hello',
 	'https://cf-workers-text2kv-abo.pages.dev/youxian.txt?token=hello',
-	'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt',
+	//'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt',
 	//'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub2.txt',
 	//'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub3.txt',
 	//'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub4.txt',
